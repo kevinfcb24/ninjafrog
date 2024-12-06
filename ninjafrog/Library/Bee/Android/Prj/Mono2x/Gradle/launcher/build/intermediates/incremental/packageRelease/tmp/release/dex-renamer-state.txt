@@ -1,0 +1,4 @@
+#Thu Dec 05 00:21:22 CET 2024
+base.0=C\:\\Users\\carlo\\OneDrive\\Escritorio\\ninjafrog_02122024_1\\ninjafrog\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
